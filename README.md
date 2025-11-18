@@ -4,14 +4,16 @@ Automatically generated from the content you provided and styled for readability
 -->
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/main/src/profile-summary-card.svg" alt="trophy" />
+	<img src="https://avatars.githubusercontent.com/OgayoTK1?s=200" alt="OgayoTK1 avatar" width="120" style="border-radius:50%" />
+	<br/>
+	<img src="https://github-profile-trophy.vercel.app/?username=OgayoTK1&theme=tokyonight" alt="trophy" />
 </p>
 
 # 👋 Hi, I'm Ogayo Andrew Ater
 
-> 🚀 Software Engineer | Future Machine Learning Engineer (2026) | Full-Stack Developer | Problem Solver
+>  Software Engineer | Aspiring Machine Learning Engineer (2026) | Full-Stack Developer | Problem Solver
 
-I build clean, user-centered, and impactful digital solutions — focusing on modern full-stack development now and preparing to specialize in Machine Learning & Data Science in 2026. My long-term goal is to develop intelligent systems that support education, healthcare, and inclusive access across Africa.
+I build clean, user-centered, and impactful digital solutions focusing on modern full-stack development now and preparing to specialize in Machine Learning & Data Science in 2026. My long-term goal is to develop intelligent systems that support education, healthcare, and inclusive access across Africa.
 
 ---
 
@@ -25,13 +27,13 @@ I build clean, user-centered, and impactful digital solutions — focusing on mo
 
 ---
 
-## 🧩 About Me
+## About Me
 
-- 💻 Strong foundation in full-stack software development
-- 🌱 Learning advanced programming and data concepts
-- 🎯 Specializing in Machine Learning in 2026
-- 🚀 Passionate about creating solutions that improve lives
-- 🌍 Interested in education technology, healthcare systems, and accessible innovation
+-  Strong foundation in full-stack software development
+-  Learning advanced programming and data concepts
+-  Specializing in Machine Learning in 2026
+-  Passionate about creating solutions that improve lives
+-  Interested in education technology, healthcare systems, and accessible innovation
 
 ---
 
@@ -51,7 +53,7 @@ I build clean, user-centered, and impactful digital solutions — focusing on mo
 
 ---
 
-## 🔭 Areas I Work In
+##  Areas I Work In
 
 - Full-stack web applications
 - Responsive front-end interfaces
@@ -61,7 +63,7 @@ I build clean, user-centered, and impactful digital solutions — focusing on mo
 
 ---
 
-## 🧠 Machine Learning Path (Starting 2026)
+##  Machine Learning Path (Starting 2026)
 
 I'll be advancing into:
 
@@ -80,22 +82,16 @@ I'll be advancing into:
 
 ---
 
-## 📚 Currently Learning (2025–2026)
+## Currently Learning (2025–2026)
 
 - Advanced JavaScript & React practices
 - Tailwind CSS for modern UI design
-- Python scripting & data analysis basics
+- Python scripting & data analysis 
 - Building small personal ML projects to prepare for 2026
 
 ---
 
-## 📌 Top Projects
-
-- [OgayoTK1](https://github.com/OgayoTK1/OgayoTK1) — **OgayoTK1/OgayoTK1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- [Nia_health](https://github.com/OgayoTK1/Nia_health) — No description available.
-- [Tools-assigment](https://github.com/OgayoTK1/Tools-assigment) — No description available.
-
-## 📊 GitHub Stats & Activity
+## GitHub Stats & Activity
 
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=OgayoTK1&show_icons=true&theme=tokyonight" alt="GitHub stats" />
@@ -107,11 +103,11 @@ I'll be advancing into:
 
 ---
 
-## 🤝 Let’s Connect
+##  Let’s Connect
 
-- 📧 Email: [aterogayo@gmail.com](mailto:aterogayo@gmail.com)
-- 💼 LinkedIn: [ogayo-ater-608213302](https://www.linkedin.com/in/ogayo-ater-608213302)
-- 🐙 GitHub: [OgayoTK1](https://github.com/OgayoTK1)
+- Email: [aterogayo@gmail.com](mailto:aterogayo@gmail.com)
+- LinkedIn: [ogayo-ater-608213302](https://www.linkedin.com/in/ogayo-ater-608213302)
+- GitHub: [OgayoTK1](https://github.com/OgayoTK1)
 
 ---
 
@@ -120,12 +116,4 @@ I'll be advancing into:
 Ogayo A. Ater
 
 ---
-
-If you'd like, I can:
-
-- Auto-fill the project links and short descriptions from your repositories.
-- Add a pinned-projects section with images/screenshots.
-- Create a machine-learning roadmap issue tracker template in a repo.
-
-Tell me which of these you'd like next.
 
