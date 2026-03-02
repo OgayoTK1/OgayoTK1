@@ -1,6 +1,5 @@
 <!--
 Profile README for Ogayo Andrew Ater — polished and stylish.
-Automatically generated from the content you provided and styled for readability.
 -->
 
 <p align="center">
@@ -67,30 +66,38 @@ I build clean, user-centered, and impactful digital solutions focusing on modern
 
 I'll be advancing into:
 
-- Data manipulation (NumPy, Pandas)
-- Exploratory data analysis & visualization
-- Supervised and unsupervised ML algorithms
+- Data manipulation (NumPy, Pandas)  # **Done**
+- Exploratory data analysis & visualization # **Done**
+- Supervised and unsupervised ML algorithms # **In Progress**
 - Model evaluation and tuning
 - Deep learning fundamentals
 - Intro to model deployment and cloud tools
 
 ### 2026 Learning Roadmap
 
-- Phase 1 — Foundations: Data cleaning, visualization, Python for analytics
-- Phase 2 — Core ML Concepts: Regression, classification, feature engineering
+- Phase 1 — Foundations: Data cleaning, visualization, Python for analytics **Done**
+- Phase 2 — Core ML Concepts: Regression, classification, feature engineering **In progess**
 - Phase 3 — Expansion: Deep learning basics, ML deployment, cloud tools
 
 ---
 
-## Currently Learning (2025–2026)
+## Learnt (2025)
 
 - Advanced JavaScript & React practices
 - Tailwind CSS for modern UI design
 - Python scripting & data analysis 
-- Building small personal ML projects to prepare for 2026
-
+- Frontend and Backend (Full Stack)
 ---
 
+## Currently Learning (2026)
+- Regression
+- Classification
+- Feature Engineering
+- Probability, Calculus & Matrix
+- Deep learning basics, ML deployment, cloud tools
+
+  
+  
 ## GitHub Stats & Activity
 
 <p align="center">
