@@ -10,7 +10,7 @@ Profile README for Ogayo Andrew Ater — polished and stylish.
 
 # 👋 Hi, I'm Ogayo Andrew Ater
 
->  Software Engineer | Aspiring Machine Learning Engineer (2026) | Full-Stack Developer | Problem Solver
+>  Software Engineer | Aspiring Machine Learning Engineer (2026) | Data Engineer | Problem Solver
 
 I build clean, user-centered, and impactful digital solutions focusing on modern full-stack development now and preparing to specialize in Machine Learning & Data Science in 2026. My long-term goal is to develop intelligent systems that support education, healthcare, and inclusive access across Africa.
 
@@ -59,16 +59,16 @@ I build clean, user-centered, and impactful digital solutions focusing on modern
 - REST API design and backend services
 - UI/UX-driven development and Tailwind-based layouts
 - Problem-solving, debugging, and developer experience
-
+- Data engineering
 ---
 
-##  Machine Learning Path (Starting 2026)
+##  Machine Learning Path (Actively Specializing 2026)
 
-I'll be advancing into:
+Advancing into:
 
 - Data manipulation (NumPy, Pandas)  # **Done**
 - Exploratory data analysis & visualization # **Done**
-- Supervised and unsupervised ML algorithms # **In Progress**
+- Supervised and unsupervised ML algorithms # **Done**
 - Model evaluation and tuning
 - Deep learning fundamentals
 - Intro to model deployment and cloud tools
@@ -76,8 +76,8 @@ I'll be advancing into:
 ### 2026 Learning Roadmap
 
 - Phase 1 — Foundations: Data cleaning, visualization, Python for analytics **Done**
-- Phase 2 — Core ML Concepts: Regression, classification, feature engineering **In progess**
-- Phase 3 — Expansion: Deep learning basics, ML deployment, cloud tools
+- Phase 2 — Core ML Concepts: Regression, classification, feature engineering **Done**
+- Phase 3 — Expansion: Deep learning basics, ML deployment, cloud tools    **In progress**  
 
 ---
 
@@ -87,14 +87,18 @@ I'll be advancing into:
 - Tailwind CSS for modern UI design
 - Python scripting & data analysis 
 - Frontend and Backend (Full Stack)
+- Data Engineering
 ---
 
 ## Currently Learning (2026)
-- Regression
-- Classification
-- Feature Engineering
-- Probability, Calculus & Matrix
+- Mobile development **Done**
+- Regression **Done**
+- Classification **Done**
+- Feature Engineering **Done**
+- Probability, Calculus & Matrix **Done**
+- Mathematics for Machine learning **Done**
 - Deep learning basics, ML deployment, cloud tools
+- Machine Learning pipelines
 
   
   
