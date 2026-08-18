@@ -12,7 +12,7 @@ Profile README for Ogayo Andrew Ater — polished and stylish.
 
 >  Software Engineer | Aspiring Machine Learning Engineer (2026) | Data Engineer | Problem Solver
 
-I build clean, user-centered, and impactful digital solutions focusing on modern full-stack development now and preparing to specialize in Machine Learning & Data Science in 2026. My long-term goal is to develop intelligent systems that support education, healthcare, and inclusive access across Africa.
+I build clean, user-centered, and impactful digital solutions focusing on modern full-stack development now and preparing to specialize in Machine Learning & Data Science in 2026. My long-term goal is to develop intelligent systems that support Agriculture, education, healthcare, and inclusive access across Africa.
 
 ---
 
@@ -32,7 +32,7 @@ I build clean, user-centered, and impactful digital solutions focusing on modern
 -  Learning advanced programming and data concepts
 -  Specializing in Machine Learning in 2026
 -  Passionate about creating solutions that improve lives
--  Interested in education technology, healthcare systems, and accessible innovation
+-  Interested in technology, Agriculture, healthcare systems, and accessible innovation
 
 ---
 
@@ -54,12 +54,13 @@ I build clean, user-centered, and impactful digital solutions focusing on modern
 
 ##  Areas I Work In
 
+- Data engineering
 - Full-stack web applications
 - Responsive front-end interfaces
 - REST API design and backend services
 - UI/UX-driven development and Tailwind-based layouts
 - Problem-solving, debugging, and developer experience
-- Data engineering
+
 ---
 
 ##  Machine Learning Path (Actively Specializing 2026)
@@ -77,7 +78,7 @@ Advancing into:
 
 - Phase 1 — Foundations: Data cleaning, visualization, Python for analytics **Done**
 - Phase 2 — Core ML Concepts: Regression, classification, feature engineering **Done**
-- Phase 3 — Expansion: Deep learning basics, ML deployment, cloud tools    **In progress**  
+- Phase 3 — Expansion: Deep learning basics, ML deployment, cloud tools    **Done**  
 
 ---
 
@@ -98,7 +99,8 @@ Advancing into:
 - Probability, Calculus & Matrix **Done**
 - Mathematics for Machine learning **Done**
 - Deep learning basics, ML deployment, cloud tools
-- Machine Learning pipelines
+- Machine Learning pipelines **Done**
+- 
 
   
   
@@ -122,7 +124,7 @@ Advancing into:
 
 ---
 
-> “I’m a software engineer preparing to become a machine learning engineer moving with intention, discipline, and purpose.”
+> “I’m a software engineer and machine learning engineer in practise moving with intention, discipline, and purpose.”
 
 Ogayo A. Ater
 
